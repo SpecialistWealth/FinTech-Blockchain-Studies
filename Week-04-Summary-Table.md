@@ -150,5 +150,27 @@
 | **Main Findings / Conclusions**   | - DeFi can increase efficiency, transparency, and accessibility in financial services. <br> - The composability of DeFi allows for innovative financial products and services. <br> - Risks include smart contract vulnerabilities, reliance on external data (oracles), and potential for illicit activities due to pseudonymity. <br> - Regulatory challenges exist due to the decentralized nature of DeFi. |
 | **Strengths / Limitations**       | **Strengths:** <br> - Comprehensive overview of DeFi and its implications. <br> - Clear articulation of opportunities and risks. <br> - Provides a framework for understanding complex interactions within DeFi. <br> **Limitations:** <br> - Lacks empirical data to support claims; primarily theoretical. <br> - The rapidly evolving nature of DeFi may render some findings outdated quickly. <br> - Potential biases in literature selection and interpretation. |
 
+# Distributed Ledger Technology in Payments, Clearing, and Settlement
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | - David Mills, Kathy Wang, Brendan Malone, Anjana Ravi, Jeff Marquardt, Clinton Chen, Anton Badev, Timothy Brezinski (Federal Reserve Board)  <br> - Linda Fahy, Kimberley Liao, Vanessa Kargenian, Max Ellithorpe, Wendy Ng (Federal Reserve Bank of New York) <br> - Maria Baird (Federal Reserve Bank of Chicago) <br> - Published in 2023 |
+| **Aim of Study / Paper**         | - To examine the potential applications of Distributed Ledger Technology (DLT) in payments, clearing, and settlement. <br> - To identify opportunities and challenges for long-term implementation and adoption of DLT. <br> - To explore how DLT could change financial market structures. |
+| **Type of Study / Information**   | - The paper is a research report based on qualitative analysis. <br> - It includes insights from discussions with industry stakeholders, interviews, and attendance at industry conferences. <br> - It synthesizes findings from various sources to provide a comprehensive overview of DLT's implications. |
+| **Main Findings / Conclusions**   | - DLT has the potential to enhance the efficiency and security of financial transactions. <br> - Use cases include cross-border payments and post-trade clearing and settlement of securities. <br> - Challenges include technological hurdles, legal considerations, and risk management issues. <br> - The understanding and application of DLT are still in early stages, requiring ongoing analysis and adaptation. |
+| **Strengths / Limitations**       | - Comprehensive engagement with a wide range of industry stakeholders. <br> - In-depth analysis of both opportunities and challenges associated with DLT. <br> - Provides a forward-looking perspective on the evolution of financial markets. <br>  - The technology is still in its infancy, making it difficult to predict long-term outcomes. <br> - The paper may not cover all potential use cases or challenges due to the rapidly evolving nature of DLT. |
+
+# DeFi-ning DeFi: Challenges & Pathway
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | - Authors: [Authors not specified in the provided text]  <br> - Date: January 14, 2021                                                                                                                  |
+| **Aim of Study / Paper**         | - To provide a comprehensive overview of the DeFi ecosystem. <br> - To identify and analyze the pressing challenges faced by developers and users in the DeFi space. <br> - To propose potential solutions. |
+| **Type of Study / Information**   | - The study is a comprehensive analysis of the DeFi ecosystem. <br> - It includes literature reviews and categorization of DeFi products. <br> - It discusses both theoretical and practical aspects of DeFi. |
+| **Main Findings / Conclusions**   | - DeFi represents a whole ecosystem of financial services realized through smart contracts. <br> - Challenges include scalability, security of smart contracts, and regulatory issues. <br> - Demand for DeFi services remains high despite risks. |
+| **Strengths / Limitations**       |  - Comprehensive analysis of the DeFi landscape. <br> - Categorization of various DeFi products provides clarity. <br> - Addresses both technical and economic aspects. <br>  - May not cover all emerging DeFi protocols. <br> - Limited empirical data on user experiences and outcomes. |
+
+
+
 
 
