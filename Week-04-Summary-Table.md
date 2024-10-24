@@ -64,6 +64,15 @@
 | **Main Findings / Conclusions**  | - Regulatory bodies face significant challenges due to the rapid evolution of fintech and crypto-assets. <br> - There is a need for harmonization with international standards, particularly those set by the FATF. <br> - Self-regulatory organizations are emerging to promote best practices. <br> - The regulatory landscape is fragmented, leading to potential risks for investors and the market. |
 | **Strengths / Limitations**      | - Provides a thorough overview of the current regulatory environment. <br> - Highlights the importance of international cooperation in regulation. <br> - Offers insights into self-regulatory initiatives. <br>  - The study may not cover all aspects of the rapidly changing crypto landscape. <br> - Limited empirical data may affect the robustness of conclusions. <br> - Focuses primarily on the Western Balkans, which may not be generalizable to other regions. |
 
+# Summary of "Know-Your-Customer (KYC) Requirements for Initial Coin Offerings"
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**              | N. K. Ostern, J. Riedel / 2021                                                                                                                                                                            |
+| **Aim of Study / Paper**        | - To develop a blockchain-based KYC system for ICOs.  <br> - To ensure compliance with legal requirements.  <br> - To analyze the implications of regulations on KYC processes.                             |
+| **Type of Study / Information**  | - Design Science Research (DSR) methodology.  <br> - Focused on regulatory compliance and system design objectives.  <br> - Involves qualitative analysis of regulations and their translation into design objectives. |
+| **Main Findings / Conclusions**  | - Identified key regulations (AMLD5, GwG) crucial for KYC/ICO system design.  <br> - Proposed a prototype that integrates an eID system for identity verification.  <br> - Emphasized the importance of privacy protection in transaction records. |
+| **Strengths / Limitations**      |  - Comprehensive analysis of legal requirements.  <br> - Collaborative approach involving legal and IT experts.  <br> - Prototype development supported by a tech startup.  <br>  - Some proposed solutions for privacy are still in conceptual stages.  <br> - The study may not cover all potential regulatory changes in the future. |
 
 
 
