@@ -86,6 +86,18 @@
 | **Strengths / Limitations**       |  - Novel perspective on blockchain in research.  <br> - Emphasizes community engagement's importance.  <br> - Practical suggestions for blockchain implementation.  <br> - Lacks empirical data.  <br> - Feasibility of solutions not fully addressed.  <br> - Challenges in community engagement not extensively explored. |
 
 
+# Blockchain Applications for Industry 4.0 and Industrial IoT: A Review
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | -  Tejasvi Alladi, Vinay Chamola, Reza M. Parizi, Kim-Kwang Raymond Choo   November 2019                                                                 |
+| **Aim of Study / Paper**         | - To explore the applications of blockchain technology in Industry 4.0 and the Industrial Internet of Things (IIoT).  <br> - To identify the benefits of blockchain, such as enhanced security and transparency.  <br> - To investigate the challenges faced in the adoption of blockchain in various industrial sectors.  <br> - To review existing literature and case studies to provide a comprehensive understanding of blockchain's role in industrial applications. |
+| **Type of Study / Information**   | -  Systematic review of literature.                                           |
+| **Main Findings / Conclusions**   | - Blockchain technology can significantly enhance security, transparency, and traceability in industrial applications.  <br> - It offers potential improvements in supply chain management, enabling real-time tracking of products and components.  <br> - The integration of blockchain can facilitate better data integrity and trust among stakeholders.  <br> - Challenges include high implementation costs, the complexity of technology, and resistance from smaller players in the market.  <br> - The need for standardization and regulatory frameworks to support blockchain adoption in various industries was highlighted. |
+| **Strengths / Limitations**       |  - Comprehensive review of existing literature, providing a broad perspective on blockchain applications.  <br>   - Detailed analysis of case studies across different industries, showcasing practical implementations.  <br>   - Identification of key trends and future research directions in blockchain technology.  <br>  - The review may not cover all recent developments in blockchain technology due to the fast-paced nature of the field.  <br>   - Some case studies may lack empirical data, relying instead on theoretical frameworks.  <br>   - Potential bias in selecting studies for review, as not all relevant literature may have been included. |
+
+
+
 
 
 
