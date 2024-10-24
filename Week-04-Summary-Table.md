@@ -139,3 +139,16 @@
 | **Main Findings / Conclusions**  | - Tokenization can enhance liquidity, transaction efficiency, and transparency in infrastructure assets. <br> - Conventional financing methods are inefficient and costly. <br> - Barriers include regulatory uncertainties and market volatility. |
 | **Strengths / Limitations**      |  - Comprehensive analysis of blockchain's role in infrastructure finance. <br> - Use of a real-world case study (Ziyen-Coin) to illustrate findings. <br> - Discussion of both benefits and challenges. <br> - Limited technical infrastructure and regulatory clarity. <br> - Most use cases are still in pilot stages, limiting generalizability. <br> - Focus primarily on the energy sector. |
 
+
+# Distributed Ledger Technology in Payments, Clearing and Settlement
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | Fabian Schär, March 2020                                                                                                                                                                                  |
+| **Aim of Study / Paper**         | - To explore the implications of Decentralized Finance (DeFi) on the financial ecosystem. <br> - To analyze the opportunities and risks associated with DeFi. <br> - To provide a framework for understanding the components of DeFi. |
+| **Type of Study / Information**   | - The paper is a conceptual analysis that synthesizes existing literature on DeFi. <br> - It includes qualitative insights and theoretical frameworks rather than empirical data.                           |
+| **Main Findings / Conclusions**   | - DeFi can increase efficiency, transparency, and accessibility in financial services. <br> - The composability of DeFi allows for innovative financial products and services. <br> - Risks include smart contract vulnerabilities, reliance on external data (oracles), and potential for illicit activities due to pseudonymity. <br> - Regulatory challenges exist due to the decentralized nature of DeFi. |
+| **Strengths / Limitations**       | **Strengths:** <br> - Comprehensive overview of DeFi and its implications. <br> - Clear articulation of opportunities and risks. <br> - Provides a framework for understanding complex interactions within DeFi. <br> **Limitations:** <br> - Lacks empirical data to support claims; primarily theoretical. <br> - The rapidly evolving nature of DeFi may render some findings outdated quickly. <br> - Potential biases in literature selection and interpretation. |
+
+
+
