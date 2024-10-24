@@ -192,4 +192,23 @@
 | **Strengths / Limitations**       | - Comprehensive analysis of blockchain applications in banking. <br> - Clear description of governance and consensus mechanisms. <br> - Addresses real-world challenges in banking. <br>  - The technology is still in development and not yet mature. <br> - Potential challenges in adoption by traditional banking institutions. |
 
 
+# Bitcoin: A Peer-to-Peer Electronic Cash System
 
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | Satoshi Nakamoto, 2008                                                                                                                                                                                     |
+| **Aim of Study / Paper**         | - To propose a decentralized electronic cash system that allows direct online payments between parties without the need for a trusted third party. <br> - To address the double-spending problem inherent in digital currencies. |
+| **Type of Study / Information**   | - The paper presents a conceptual framework for a peer-to-peer electronic cash system. <br> - It includes theoretical underpinnings and practical implementations of the proposed system.                      |
+| **Main Findings / Conclusions**   | - A timestamp server is essential for preventing double-spending by creating a public history of transactions. <br> - The use of proof-of-work makes it computationally impractical for an attacker to alter transaction history if honest nodes control the majority of CPU power. <br> - The network is robust and can function without centralized control, allowing nodes to join and leave freely while maintaining consensus on the transaction history. |
+| **Strengths / Limitations**       | - Innovative approach to digital currency that eliminates the need for trust in third parties. <br> - Strong theoretical foundation supported by cryptographic principles. <br> - Decentralized nature enhances security and resilience against attacks. <br> - The paper does not address potential scalability issues that may arise with increased transaction volume. <br> - Privacy concerns are acknowledged, but the proposed solutions may not fully address all aspects of user anonymity. |
+
+
+# An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | Zibin Zheng, Shaoan Xie, Hongning Dai, Xiangping Chen, Huaimin Wang <br> Published in June 2017                                                                                                          |
+| **Aim of Study / Paper**         | - To provide a comprehensive overview of blockchain technology. <br> - To explore the architecture, consensus mechanisms, and future trends of blockchain. <br> - To identify challenges and advancements in the field. |
+| **Type of Study / Information**   | - Conference paper <br> - Overview and analysis of existing literature on blockchain technology <br> - Not a systematic review or experimental study, but rather a synthesis of current knowledge and trends.  |
+| **Main Findings / Conclusions**   | - Blockchain serves as an immutable ledger enabling decentralized transactions. <br> - Various consensus algorithms (e.g., PoW, PoS, PBFT) are compared. <br> - Identified challenges include scalability and security. <br> - Future trends include blockchain testing, addressing centralization, and applications in big data analytics. |
+| **Strengths / Limitations**       | - Comprehensive overview of blockchain technology. <br> - Clear comparison of consensus algorithms. <br> - Highlights both current advancements and future directions. <br> - Lacks empirical data as it is a review paper. <br> - May not cover all emerging blockchain technologies or applications. |
