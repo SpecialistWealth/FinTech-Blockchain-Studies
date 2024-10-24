@@ -64,7 +64,7 @@
 | **Main Findings / Conclusions**  | - Regulatory bodies face significant challenges due to the rapid evolution of fintech and crypto-assets. <br> - There is a need for harmonization with international standards, particularly those set by the FATF. <br> - Self-regulatory organizations are emerging to promote best practices. <br> - The regulatory landscape is fragmented, leading to potential risks for investors and the market. |
 | **Strengths / Limitations**      | - Provides a thorough overview of the current regulatory environment. <br> - Highlights the importance of international cooperation in regulation. <br> - Offers insights into self-regulatory initiatives. <br>  - The study may not cover all aspects of the rapidly changing crypto landscape. <br> - Limited empirical data may affect the robustness of conclusions. <br> - Focuses primarily on the Western Balkans, which may not be generalizable to other regions. |
 
-# Summary of "Know-Your-Customer (KYC) Requirements for Initial Coin Offerings"
+# Know-Your-Customer (KYC) Requirements for Initial Coin Offerings
 
 | **Category**                     | **Details**                                                                                                                                                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,6 +74,16 @@
 | **Main Findings / Conclusions**  | - Identified key regulations (AMLD5, GwG) crucial for KYC/ICO system design.  <br> - Proposed a prototype that integrates an eID system for identity verification.  <br> - Emphasized the importance of privacy protection in transaction records. |
 | **Strengths / Limitations**      |  - Comprehensive analysis of legal requirements.  <br> - Collaborative approach involving legal and IT experts.  <br> - Prototype development supported by a tech startup.  <br>  - Some proposed solutions for privacy are still in conceptual stages.  <br> - The study may not cover all potential regulatory changes in the future. |
 
+
+# Unchaining Collective Intelligence for Science, Research and Technology Development by Blockchain-Boosted Community Participation
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | - Multiple authors including B. Voelkl, N. S. Altman, A. Forsman, W. Forstmeier, J. Gurevitch, I. Jaric, et al.  <br> - Published in 2020.                                                                 |
+| **Aim of Study / Paper**         | - Explore blockchain integration in scientific research.  <br> - Investigate community participation's role in enhancing collective intelligence.  <br> - Key questions:  <br>   - How can blockchain improve transparency?  <br>   - What is community engagement's impact on research outcomes? |
+| **Type of Study / Information**   | - Conceptual framework discussing blockchain applications in science.  <br> - Review of literature and theoretical models, not empirical data collection.                                                                                     |
+| **Main Findings / Conclusions**   | - Blockchain enhances credibility and reproducibility.  <br> - Increases transparency in peer review, mitigating predatory journal issues.  <br> - Community involvement leads to inclusive research outputs.  <br> - Need for robust identity and reputation systems. |
+| **Strengths / Limitations**       |  - Novel perspective on blockchain in research.  <br> - Emphasizes community engagement's importance.  <br> - Practical suggestions for blockchain implementation.  <br> - Lacks empirical data.  <br> - Feasibility of solutions not fully addressed.  <br> - Challenges in community engagement not extensively explored. |
 
 
 
