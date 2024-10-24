@@ -181,5 +181,15 @@
 | **Strengths / Limitations**      | - Innovative approach combining fintech and sustainable investment. <br> - Potential to mobilize local savings and enhance financial inclusion. <br> - Addresses the urgent need for infrastructure investment. <br> - The digital infrastructure gap may hinder implementation in many regions. <br> - The proposal requires further empirical testing and validation. |
 
 
+# An Architecture for Blockchain-Based Cloud Banking
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | Thuat Do, July 2021                                                                                                                                                                                        |
+| **Aim of Study / Paper**         | - To explore the potential of blockchain technology in the banking sector.  <br> - To propose a feasible framework for blockchain-based cloud banking. <br> - To address challenges in implementing decentralized banking systems. |
+| **Type of Study / Information**   | - The study is a conceptual framework development. <br> - It includes a detailed analysis of blockchain applications in banking, governance mechanisms, and consensus processes.                               |
+| **Main Findings / Conclusions**   | - Blockchain can enhance transparency, security, and efficiency in banking. <br> - A novel nomination mechanism ensures stable network expansion. <br> - A reputation system promotes honest participation among nodes. <br> - The proposed framework differentiates itself from existing public and private blockchain networks. |
+| **Strengths / Limitations**       | - Comprehensive analysis of blockchain applications in banking. <br> - Clear description of governance and consensus mechanisms. <br> - Addresses real-world challenges in banking. <br>  - The technology is still in development and not yet mature. <br> - Potential challenges in adoption by traditional banking institutions. |
+
 
 
