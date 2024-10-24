@@ -118,3 +118,14 @@
 | **Strengths / Limitations** | - Comprehensive review of existing literature. <br> - Clear research questions guiding the study. <br> - Use of standardized data extraction and quality evaluation methods. <br>  - Limited to studies published in specific databases. <br> - Potential publication bias as only peer-reviewed articles were included. <br> - The dynamic nature of blockchain technology may lead to rapid changes in findings. |
 
 
+
+# Blockchain Distributed Ledger Technology: An Introduction and Focus on Smart Contracts
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**               | Marc Hamilton, Masters of Tax Accounting, University of Alabama, CFO & Treasurer, CDG Engineers and Associates, Inc. (Published in 2019)                                                                  |
+| **Aim of Study / Paper**         | - To explore the rapid evolution of blockchain and distributed ledger technology (DLT) <br> - To examine the impact of smart contracts on business processes <br> - To identify changes in accounting practices due to blockchain technology |
+| **Type of Study / Information**   | - The paper is a conceptual overview and analysis of blockchain technology and its applications <br> - It discusses the implications for various industries, particularly accounting and finance               |
+| **Main Findings / Conclusions**   | - Blockchain technology is transforming business transactions and recording methods <br> - Smart contracts enable automated, trustless exchanges of value <br> - Significant R&D investments are driving the maturation of blockchain applications |
+| **Strengths / Limitations**       |  - Comprehensive overview of blockchain and smart contracts <br> - Highlights real-world applications and potential impacts on industries <br> - Addresses the need for professionals to adapt to technological changes <br> - Lacks empirical data or case studies to support claims <br> - Primarily theoretical in nature, which may limit practical applicability |
+
