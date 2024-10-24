@@ -54,6 +54,17 @@
 | **Strengths / Limitations**       | - Comprehensive review of existing literature. <br> - Identifies key features for portfolio construction and investment strategies. <br> - Highlights the potential for diversification benefits. <br> - Focus primarily on Bitcoin, with less emphasis on other cryptocurrencies. <br> - Questions regarding the long-term sustainability and investability of cryptocurrencies remain. |
 
 
+# An Overview of Regulatory Strategies on Crypto-Asset Regulation - Challenges for Financial Regulators in the Western Balkans
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**              | - Tatjana Jovanic  <br> - January 2021                                                                                                                                                                   |
+| **Aim of Study / Paper**        | - To analyze the regulatory strategies concerning crypto-assets in the Western Balkans. <br> - To identify challenges faced by financial regulators in this region. <br> - To explore the implications of existing regulations. |
+| **Type of Study / Information**  | - The study is a comprehensive analysis of regulatory frameworks. <br> - It includes qualitative assessments of existing regulations and their effectiveness. <br> - It may involve comparative analysis with other regions. |
+| **Main Findings / Conclusions**  | - Regulatory bodies face significant challenges due to the rapid evolution of fintech and crypto-assets. <br> - There is a need for harmonization with international standards, particularly those set by the FATF. <br> - Self-regulatory organizations are emerging to promote best practices. <br> - The regulatory landscape is fragmented, leading to potential risks for investors and the market. |
+| **Strengths / Limitations**      | - Provides a thorough overview of the current regulatory environment. <br> - Highlights the importance of international cooperation in regulation. <br> - Offers insights into self-regulatory initiatives. <br>  - The study may not cover all aspects of the rapidly changing crypto landscape. <br> - Limited empirical data may affect the robustness of conclusions. <br> - Focuses primarily on the Western Balkans, which may not be generalizable to other regions. |
+
+
 
 
 
