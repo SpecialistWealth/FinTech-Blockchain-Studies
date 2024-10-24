@@ -170,6 +170,15 @@
 | **Main Findings / Conclusions**   | - DeFi represents a whole ecosystem of financial services realized through smart contracts. <br> - Challenges include scalability, security of smart contracts, and regulatory issues. <br> - Demand for DeFi services remains high despite risks. |
 | **Strengths / Limitations**       |  - Comprehensive analysis of the DeFi landscape. <br> - Categorization of various DeFi products provides clarity. <br> - Addresses both technical and economic aspects. <br>  - May not cover all emerging DeFi protocols. <br> - Limited empirical data on user experiences and outcomes. |
 
+# Scaling Up Sustainable Investment Through Blockchain
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**              | Yushi Chen, Ulrich Volz (2020)                                                                                                                                                                            |
+| **Aim of Study / Paper**        | - To explore how fintech can complement conventional capital markets to mobilize finance for sustainable infrastructure investments. <br> - To propose blockchain-based project bonds for financing sustainable investments. |
+| **Type of Study / Information**  | - The study is a conceptual paper that analyzes the potential of fintech, particularly blockchain technology, in enhancing sustainable investment. <br> - It includes a proposal for a digital crowdfunding platform. |
+| **Main Findings / Conclusions**  | - Blockchain can improve transparency and accountability in the use of funds for sustainable projects. <br> - The proposed approach allows for local-currency asset purchases and facilitates project management. <br> - It addresses the digital infrastructure gap in the Global South, which is crucial for implementation. |
+| **Strengths / Limitations**      | - Innovative approach combining fintech and sustainable investment. <br> - Potential to mobilize local savings and enhance financial inclusion. <br> - Addresses the urgent need for infrastructure investment. <br> - The digital infrastructure gap may hinder implementation in many regions. <br> - The proposal requires further empirical testing and validation. |
 
 
 
