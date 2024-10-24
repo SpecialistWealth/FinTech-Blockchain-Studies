@@ -129,3 +129,13 @@
 | **Main Findings / Conclusions**   | - Blockchain technology is transforming business transactions and recording methods <br> - Smart contracts enable automated, trustless exchanges of value <br> - Significant R&D investments are driving the maturation of blockchain applications |
 | **Strengths / Limitations**       |  - Comprehensive overview of blockchain and smart contracts <br> - Highlights real-world applications and potential impacts on industries <br> - Addresses the need for professionals to adapt to technological changes <br> - Lacks empirical data or case studies to support claims <br> - Primarily theoretical in nature, which may limit practical applicability |
 
+# Finance Infrastructure Through Blockchain-Based Tokenization
+
+| **Category**                     | **Details**                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Authors / Date**              | Yifeng Tian, Zheng Lu, Peter Adriaens, R. Edward Minchin, Alastair Caithness, Junghoon Woo (2020)                                                                                                        |
+| **Aim of Study / Paper**        | - To analyze the potential of blockchain tokenization in improving infrastructure financing.  <br> - To explore the first SEC-compliant energy asset security token, Ziyen-Coin. <br> - To identify benefits and barriers of tokenization. |
+| **Type of Study / Information**  | - Empirical research study. <br> - Case study analysis of Ziyen-Coin as a security token. <br> - Literature review comparing conventional financing instruments with blockchain tokenization.                |
+| **Main Findings / Conclusions**  | - Tokenization can enhance liquidity, transaction efficiency, and transparency in infrastructure assets. <br> - Conventional financing methods are inefficient and costly. <br> - Barriers include regulatory uncertainties and market volatility. |
+| **Strengths / Limitations**      |  - Comprehensive analysis of blockchain's role in infrastructure finance. <br> - Use of a real-world case study (Ziyen-Coin) to illustrate findings. <br> - Discussion of both benefits and challenges. <br> - Limited technical infrastructure and regulatory clarity. <br> - Most use cases are still in pilot stages, limiting generalizability. <br> - Focus primarily on the energy sector. |
+
