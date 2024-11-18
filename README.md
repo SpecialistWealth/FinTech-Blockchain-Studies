@@ -46,7 +46,7 @@ The research timeline for the proposal on blockchain in the finance industry is 
 *   **WEEKS 8-9:** Draft report, with week 9 focusing on the latter half.
 *   **WEEK 10:** Revise and finalize the report.
 
-  <a href = "SpecialistWealth/FinTech-Blockchain-Studies/20-Articles-Summaries.html">Summaries </a>
+  <a href = "https://github.com/SpecialistWealth/FinTech-Blockchain-Studies/blob/fcb08a2066dece278e09f05609625b48b7fda8dd/20-Articles-Summaries.html">Summaries </a>
 
 ## CONCLUSION
 
