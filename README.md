@@ -46,6 +46,8 @@ The research timeline for the proposal on blockchain in the finance industry is 
 *   **WEEKS 8-9:** Draft report, with week 9 focusing on the latter half.
 *   **WEEK 10:** Revise and finalize the report.
 
+  <a href = "SpecialistWealth/FinTech-Blockchain-Studies/20-Articles-Summaries.html">Summaries </a>
+
 ## CONCLUSION
 
 This project aims to demonstrate the transformative potential of blockchain technology, which is a "decentralized distributed database that has a consensus algorithm like Proof of Work (PoW) to validate each other's ledgers in nodes maintained by miners."
